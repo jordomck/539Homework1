@@ -4,5 +4,12 @@ img{
 
 h1{
 	font-size: 40px;
+	padding-top: 10px;
+	padding-bottom:10px;
+}
+
+p{
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
