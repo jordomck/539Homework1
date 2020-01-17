@@ -6,13 +6,3 @@ h1{
 	font-size: 40px;
 	padding: 30px;
 }
-
-
-a{
-	padding: 10px;
-}
-
-/*This allows links within text to fit in neatly!*/
-p a{
-	padding: 0px;
-}
